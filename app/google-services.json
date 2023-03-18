@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21812538972",
+    "project_id": "diary-app-376805",
+    "storage_bucket": "diary-app-376805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21812538972:android:edf1e87f0f46b589aa8099",
+        "android_client_info": {
+          "package_name": "com.victorteka.diaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21812538972-rii3kvpi79ddvqdnqi3qhur24ud5g8el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgEYY3wVeTawIsyIxwXsfx6ChdAIkWSCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21812538972-prjddi0s52pdudl0inglt7u55mb7p0a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -55,22 +55,8 @@ p
 Kfeature/write/src/main/java/com/example/write/navigation/WriteNavigation.kt,c/c/cc71792b388325bf4d4f67cb20bb4064064f46cb
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-@
-app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
-D
-core/ui/build.gradle,3/9/395e50f4a2c699bf7c75d547764c59d61156126e
-G
-data/mongo/build.gradle,b/e/bea90aa6dedd9cb772779520caa43d250be599c3
-I
-feature/auth/build.gradle,7/0/70929ab369ebdf975b48c3a2d2e38d37e3f3446b
-M
-feature/home/build.gradle.kts,b/e/be4e288f08b8cb3c35191b1a7d3e737f2a0057e5
-J
-feature/write/build.gradle,5/7/571d9565853b1a94e939bee02f7aa4ebff200567
 x
 Hfeature/home/src/main/java/com/example/home/navigation/HomeNavigation.kt,f/e/fea478d3704bd2dcb015a71e40bcf89ef5e6eb70
-F
-core/util/build.gradle,b/a/ba1885d97a5c79ba9c85d716f3d2bb5d2bc72a14
 I
 gradle/libs.versions.toml,d/7/d7595319a0658be6f1ed500ad590d42e4b28bc4f
 g
